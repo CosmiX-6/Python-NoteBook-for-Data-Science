@@ -2,4 +2,5 @@
 
 COURSERA: DATA SCIENCE - IBM
 
-**Assignments Notebooks
+-- Practice Notebook
+-- All python Basics are avialable in Python for Applied Data Science and AI
